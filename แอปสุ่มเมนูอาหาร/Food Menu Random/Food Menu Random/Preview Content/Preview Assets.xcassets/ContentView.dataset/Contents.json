@@ -1,0 +1,17 @@
+{
+  "data" : [
+    {
+      "filename" : "ContentView.swift",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "ContentView 1.swift",
+      "idiom" : "iphone",
+      "universal-type-identifier" : "public.swift-source"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
